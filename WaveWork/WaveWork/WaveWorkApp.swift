@@ -11,7 +11,7 @@ import SwiftUI
 struct WaveWorkApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
         }
     }
 }
