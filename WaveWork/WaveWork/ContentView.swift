@@ -20,7 +20,7 @@ struct ContentView: View {
                     }
                     .position(CGPoint(x: geometry.size.width * 0.5, y: geometry.size.height * -0.1))
                     
-                    NavigationLink(destination:SocialView()){
+                    NavigationLink(destination: SocialView()){
                         Text("social")
                             .padding(18)
                             .background(Color.blue)
